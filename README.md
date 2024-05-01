@@ -20,6 +20,8 @@ Following scenarios were scripted and resultsets were created,
 3. Finding death percentage (vs population) for all CONTINENTS as of end of April 2024
 4. Looking at countries with highest infection rate compared to population
 5. Looking at Total Population vs Vaccinations
+
+As said in the beginning, the dataset file has much more information and one can think of many new scenarios. I am looking to create additional queries for new scenarios in the future.
     
 ## Unit Testing
 
