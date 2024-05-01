@@ -6,15 +6,25 @@ In this project, the data was analyzed, cleansed (where required), imported into
 
 Tool | Purpose 
 --- | --- 
-Microsoft Excel | To break down downloaded file into two files 
-MS SQL Server Mgmt Studio | To build the SQL queries
-MS SQL Server | Free developer version of MS SQL Servers 
-MS SQL Server Import and Export Data | To import ms excel data in SQL Server database tabs
+Microsoft Excel | To create covid deaths and covid vaccinations details in seperate excel files 
+MS SQL Server Mgmt Studio | To build the SQL scripts
+MS SQL Server | To create and covid data tables 
+MS SQL Server Import and Export Data | To import ms excel data into SQL Server database tabs
 
 ## Process
+![alt text](https://github.com/smvishnu/Covid-DataExploration-Sql/blob/main/Covid_Data_Exploration.png "Covid Data Exploration")
 
-
-         
+Following scenarios were scripted and resultsets were created,
+1. Finding death percentage for all COUNTRIES as of end of April 2024. The result set shows Total_Cases vs Total_Deaths since the start of Covid.
+2. Finding % of new cases (vs Total Population) for all COUNTRIES since year 2020 to 2024, display percentage for each year.
+3. Finding death percentage (vs population) for all CONTINENTS as of end of April 2024
+4. Looking at countries with highest infection rate compared to population
+5. Looking at Total Population vs Vaccinations
+    
 ## Unit Testing
+
+Query results were manually verified against the original excel data. Excel data was filtered using FILTER and SORT functions.
+
+Thanks for reading. If you have any feedback, questions please let me know. My contact details are in the website.
 
 
