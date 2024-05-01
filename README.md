@@ -1,4 +1,4 @@
-A large Covid dataset file was downloaded from https://ourworldindata.org/covid-deaths, the file contains detailed information on COVID such as, infection spread across the globe for all continents and countries, information about the covid deaths and vaccinations. So in short there is too much of information for anybody to understand by just going through the file. 
+A large Covid dataset file was downloaded from https://ourworldindata.org/covid-deaths, the file contains real and detailed information on COVID such as, infection spread across the globe for all continents and countries, information about the covid deaths and vaccinations. So in short there is too much of information for anybody to understand by just going through the file. 
 
 In this project, the data was analyzed, cleansed (where required), imported into sql server database tables, created meaningful resultsets using SQL queries.
 
